@@ -73,11 +73,3 @@ This reports Source Hit Rate@k: how often the expected source appears among the 
 - Source references identify retrieved passages, but citations do not guarantee that every answer claim is supported. Always inspect the source passages.
 - This starter does not provide authentication, multi-user isolation, persistent storage, or production security controls.
 
-## Resume alignment
-
-Once you have tested it with your own documents and evaluation set, you can accurately describe:
-- A PDF/TXT RAG pipeline with chunking, embeddings, FAISS retrieval, and LLM-generated context-grounded answers.
-- Source/page references and configurable retrieval settings.
-- Retrieval evaluation using Source Hit Rate@k, with answer correctness and unsupported-answer checks performed separately.
-
-Do not add performance percentages to your resume unless you measured them on your evaluation set.

@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the main purpose of this document?",
+    "expected_source": "sample.pdf",
+    "expected_fact": "Write the expected answer fact here"
+  },
+  {
+    "question": "What date or timeframe is mentioned?",
+    "expected_source": "sample.pdf",
+    "expected_fact": "Write the expected answer fact here"
+  }
+]
